@@ -125,7 +125,7 @@ Este comando te permitirá ver una lista del historial de commits en la consola 
 
 Si tuviste dudas en alguna de las actividades, te invitamos a mirar el siguiente video donde se explica cómo solucionarlas:  
 
-🎥 **Introducción a Git | Commits | Egg**  
+[![Introducción a Git | Commits | Egg](https://img.youtube.com/vi/WiTZeKXSc0A/maxresdefault.jpg)](https://www.youtube.com/watch?v=WiTZeKXSc0A)  
 
 ---
 
