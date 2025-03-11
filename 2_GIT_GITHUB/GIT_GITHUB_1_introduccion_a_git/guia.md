@@ -77,4 +77,33 @@ git --version
 
 Si la instalación fue exitosa, verás un mensaje con la versión de Git disponible en tu ordenador. 🚀
 
+# ✏️ Actividad : Configurar Git  
+
+Después de instalar Git, es importante realizar una configuración inicial utilizando el comando `git config`. Esta configuración es necesaria para que Git pueda identificar al autor de los cambios y asegurar la trazabilidad de los mismos.  
+
+La configuración inicial consiste en establecer:  
+
+Tu nombre de usuario con el comando:  
+Tu dirección de correo con el comando:  
+
+```
+git config --global user.name "Tu nombre"
+git config --global user.email "Tu email"
+
+# Ejemplo de configuración
+git config --global user.name "nickname user"
+git config --global user.email "nickname@mail.com"
+
+# Validar configuración
+git config user.name
+git config user.email
+```
+
+Ten en cuenta que, al definir tu nombre de usuario y correo electrónico en la configuración de Git, es importante que uses un correo al que tengas acceso y elijas un nombre de usuario adecuado.  
+
+Más adelante, trabajarás con servicios de control de versiones (como GitHub o GitLab) y necesitarás estos datos para vincular tu cuenta y tus proyectos correctamente.  
+
+Ahora que has realizado la configuración inicial, estás listo para comenzar a gestionar tus proyectos en Git. ¡Adelante! 🚀  
+
+
 
