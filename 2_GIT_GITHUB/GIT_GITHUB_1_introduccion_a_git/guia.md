@@ -84,6 +84,7 @@ Después de instalar Git, es importante realizar una configuración inicial util
 La configuración inicial consiste en establecer:  
 
 Tu nombre de usuario con el comando: `git config --global user.name "Tu nombre"` 
+
 Tu dirección de correo con el comando: `git config --global user.email "Tu email"`
 
 Ten en cuenta que, al definir tu nombre de usuario y correo electrónico en la configuración de Git, es importante que uses un correo al que tengas acceso y elijas un nombre de usuario adecuado. Más adelante, trabajarás con servicios de control de versiones (como GitHub o GitLab) y necesitarás estos datos para vincular tu cuenta y tus proyectos correctamente.  
