@@ -111,6 +111,7 @@ git status
 Con git status, estás verificando el estado de tu repositorio. La consola te informará sobre el estado actual del mismo. En esta ocasión, observa que estás en tu directorio de trabajo (`"working directory"`), ubicado en la rama (`"branch"`) principal, que puede aparecer como `"master"` o `"main"`.
 
 👉 Si necesitas ayuda, te dejamos un video para guiarte :
+
 [![🎥 Introducción a Git | Git init | Egg](https://img.youtube.com/vi/PXzXL4hyXkE/0.jpg)](https://www.youtube.com/watch?v=PXzXL4hyXkE)
 
 
@@ -162,6 +163,7 @@ El texto entre comillas (`"creacion readme"`) es un mensaje descriptivo que indi
 Este comando toma todos los cambios que están en el **staging area** y los almacena en el **repositorio local**, marcando un punto clave en el avance del proyecto. 🚀  
 
 ## 👉 Si necesitas ayuda, te dejamos un video para guiarte:  
+
 🎥 [Introducción a Git | Primer commit | Egg](https://www.youtube.com/watch?v=7RnHisHEd4k)  
 
 ### ⚠️ ¡¡¡IMPORTANTE!!! Ten en cuenta lo siguiente:
