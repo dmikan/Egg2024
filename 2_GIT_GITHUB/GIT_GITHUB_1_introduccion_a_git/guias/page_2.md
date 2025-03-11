@@ -164,7 +164,8 @@ Este comando toma todos los cambios que están en el **staging area** y los alma
 
 ## 👉 Si necesitas ayuda, te dejamos un video para guiarte:  
 
-🎥 [Introducción a Git | Primer commit | Egg](https://www.youtube.com/watch?v=7RnHisHEd4k)  
+[![🎥 Video](https://img.youtube.com/vi/7RnHisHEd4k/0.jpg)](https://www.youtube.com/watch?v=7RnHisHEd4k)
+
 
 ### ⚠️ ¡¡¡IMPORTANTE!!! Ten en cuenta lo siguiente:
 
