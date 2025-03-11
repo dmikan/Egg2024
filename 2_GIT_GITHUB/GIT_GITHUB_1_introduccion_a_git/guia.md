@@ -36,14 +36,14 @@ Es importante que, si ya tienes experiencia usando Git y cuentas con la configur
 
 Git es un sistema de control de versiones que te permite llevar un seguimiento detallado de los cambios en el código fuente u otros archivos de texto. Funciona como una bitácora, registrando todas las modificaciones que realices, ya sea solo o en equipo.
 
-# 📖 Material Audiovisual  
+## 📖 Material Audiovisual  
 
 Si lo necesitas, te proporcionamos un video que te guiará en la instalación de Git, con el cual también podrás profundizar en algunas configuraciones básicas que puedes definir durante el proceso. Si prefieres, puedes seguir el paso a paso indicado en la guía de instalación.  
 
 ### 🎥 Instalación de Git | Git | Egg  
 [![Instalación de Git | Git | Egg](https://img.youtube.com/vi/Rpd978YJdM4/0.jpg)](https://www.youtube.com/watch?v=Rpd978YJdM4)  
 
-# 🛠 Pasos para instalar Git en tu ordenador  
+## 🛠 Pasos para instalar Git en tu ordenador  
 
 1. Ingresa al sitio web oficial de Git 👉 [https://git-scm.com/downloads](https://git-scm.com/downloads)  
 2. Selecciona la versión de Git correspondiente a tu sistema operativo (**Windows, macOS o Linux**).  
@@ -77,7 +77,7 @@ git --version
 
 Si la instalación fue exitosa, verás un mensaje con la versión de Git disponible en tu ordenador. 🚀
 
-# ✏️ Actividad : Configurar Git  
+## ✏️ Actividad : Configurar Git  
 
 Después de instalar Git, es importante realizar una configuración inicial utilizando el comando `git config`. Esta configuración es necesaria para que Git pueda identificar al autor de los cambios y asegurar la trazabilidad de los mismos.  
 
