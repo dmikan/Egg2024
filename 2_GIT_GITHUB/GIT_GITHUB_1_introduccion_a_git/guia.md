@@ -36,3 +36,45 @@ Es importante que, si ya tienes experiencia usando Git y cuentas con la configur
 
 Git es un sistema de control de versiones que te permite llevar un seguimiento detallado de los cambios en el código fuente u otros archivos de texto. Funciona como una bitácora, registrando todas las modificaciones que realices, ya sea solo o en equipo.
 
+# 📖 Material Audiovisual  
+
+Si lo necesitas, te proporcionamos un video que te guiará en la instalación de Git, con el cual también podrás profundizar en algunas configuraciones básicas que puedes definir durante el proceso. Si prefieres, puedes seguir el paso a paso indicado en la guía de instalación.  
+
+### 🎥 Instalación de Git | Git | Egg  
+[![Instalación de Git | Git | Egg](https://img.youtube.com/vi/Rpd978YJdM4/0.jpg)](https://www.youtube.com/watch?v=Rpd978YJdM4)  
+
+# 🛠 Pasos para instalar Git en tu ordenador  
+
+1. Ingresa al sitio web oficial de Git 👉 [https://git-scm.com/downloads](https://git-scm.com/downloads)  
+2. Selecciona la versión de Git correspondiente a tu sistema operativo (**Windows, macOS o Linux**).  
+3. Haz clic en el enlace de descarga para iniciar la descarga del instalador.  
+4. Una vez que esté descargado, ejecuta el archivo de instalación.  
+5. Puedes definir las configuraciones propuestas por defecto durante el proceso. Algunas sugerencias:  
+
+   - **Desmarca** la opción **“Only show new options”** al iniciar el proceso de instalación. Esto te permitirá configurar manualmente algunos aspectos durante la instalación de Git.  
+   - En la ventana **“Select Components”**, asegúrate de marcar la opción **“Open Git Bash Here”** para trabajar con mayor comodidad en la consola desde diversas ubicaciones.  
+   - En la ventana **“Choosing the default editor used by Git”**, selecciona **“Use Visual Studio Code as Git’s default editor”**.  
+   - En la ventana **“Adjusting the name…”**, selecciona **“Override the default branch name for new repositories”** y deja el nombre **`main`**.  
+   - En la ventana **“Choosing the SSH executable & HTTPS..”**, deja marcada la opción recomendada.  
+   - En la ventana **“Configuring the line ending...”**:  
+     - **Windows**: marca la primera opción.  
+     - **MacOS/Linux**: selecciona la segunda opción.  
+   - Para el resto de configuraciones, deja las opciones predeterminadas.  
+
+6. Haz clic en **“Install”** y, por último, en **“Finish”**.  
+
+---
+
+## ✅ Verificación de la instalación  
+
+¡Listo! 🙌 Una vez finalizada la instalación, te recomendamos **reiniciar la computadora**.  
+
+Luego, verifica que Git se haya instalado correctamente abriendo la terminal y ejecutando el siguiente comando:  
+
+```sh
+git --version 
+```
+
+Si la instalación fue exitosa, verás un mensaje con la versión de Git disponible en tu ordenador. 🚀
+
+
