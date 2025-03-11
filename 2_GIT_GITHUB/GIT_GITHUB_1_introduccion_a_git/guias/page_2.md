@@ -53,6 +53,7 @@ git --version
 
 Si la instalación fue exitosa, verás un mensaje con la versión de Git disponible en tu ordenador. 🚀
 
+
 ## ✏️ Actividad : Configurar Git  
 
 Después de instalar Git, es importante realizar una configuración inicial utilizando el comando `git config`. Esta configuración es necesaria para que Git pueda identificar al autor de los cambios y asegurar la trazabilidad de los mismos.  
@@ -80,6 +81,107 @@ Para validar que la información se guardó correctamente, ejecuta primero **git
 
 Ahora que has realizado la configuración inicial, estás listo para comenzar a gestionar tus proyectos en Git. ¡Adelante! 🚀
 
+## ✏️ Actividad: Crear un repositorio de Git “Local”
+
+Ahora que tienes instalado y configurado Git en tu ordenador, aprenderás a crear un repositorio local.
+
+Un **repositorio** es un espacio centralizado donde se almacena, organiza y mantiene la información. Es la carpeta o espacio donde guardarás tu proyecto para luego compartirlo con otros colaboradores a través de un repositorio en la nube (como, por ejemplo, GitHub).
+
+### 📌 Instrucciones:
+
+1. **Crea una nueva carpeta** en tu ordenador con el nombre **"profile"**.
+2. **Abre la terminal** en esa carpeta:
+   - En **Windows**: Haz clic derecho sobre la carpeta y selecciona **"Git Bash Here"**.
+   - En **Linux**: Abre la carpeta y selecciona **"Open in terminal"**.
+
+   En la terminal, escribe el siguiente comando y presiona Enter:
+
+```
+git init
+```
+
+Al ejecutar git init, estás creando un nuevo repositorio Git vacío (o reiniciando uno existente). Si se creó correctamente, deberías ver el mensaje: `"Initialized empty Git repository in /ruta/a/tu/directorio/.git/"`. 
+
+Escribe el siguiente comando y presiona Enter:
+
+```
+git status
+```
+
+Con git status, estás verificando el estado de tu repositorio. La consola te informará sobre el estado actual del mismo. En esta ocasión, observa que estás en tu directorio de trabajo (`"working directory"`), ubicado en la rama (`"branch"`) principal, que puede aparecer como `"master"` o `"main"`.
+
+👉 Si necesitas ayuda, te dejamos un video para guiarte :
+[![🎥 Introducción a Git | Git init | Egg](https://img.youtube.com/vi/PXzXL4hyXkE/0.jpg)](https://www.youtube.com/watch?v=PXzXL4hyXkE)
 
 
+## ✏️  Actividad: Crear una primera versión de un archivo
 
+**Objetivo:** Crear tu primer archivo en un repositorio local de Git, comprenderás cómo agregarlo al staging area y realizarás tu primer commit. Esto te permitirá familiarizarte con los pasos fundamentales para iniciar la gestión de tus proyectos utilizando Git.
+
+### Crear un archivo Markdown  
+Con la consola de comandos Git Bash abierta en la carpeta “profile” creada previamente, ejecuta el siguiente comando:  
+
+```sh
+touch README.md
+```
+
+> **Nota:** Este comando funciona en Git Bash y en terminales de Linux o macOS. En la consola de Windows (CMD), es posible que no funcione debido a que `touch` no está integrado.  
+
+Este comando crea un nuevo archivo llamado `README.md` en la carpeta “profile”. Este archivo está en tu directorio de trabajo, lo que significa que Git sabe que el archivo está presente, pero aún no está siguiendo los cambios realizados en él.  
+
+Un archivo con extensión `.md` es un archivo de **Markdown**, un lenguaje de marcado ligero que permite dar formato al texto de manera sencilla. Se usa ampliamente para crear documentación porque es fácil de leer en texto plano y se puede convertir a HTML para una mejor presentación en sitios web.  
+
+### Agregar un archivo a “staging area”  
+A continuación, ejecuta el siguiente comando:  
+
+```sh
+git add README.md
+```
+
+Desde este momento, el archivo se encuentra en el **staging area** (área de preparación), y Git comenzará a rastrear los cambios que realices en él. El comando `git add` mueve el archivo desde el **directorio de trabajo** (tu carpeta de proyecto) al **staging area**, que funciona como una "sala de espera" para agrupar todos los cambios que deseas guardar juntos en el repositorio.  
+
+Para verificar si el archivo cambió de ubicación (del directorio de trabajo al área de preparación, es decir, del *working* al *staging*), ejecuta:  
+
+```sh
+git status
+```
+
+El archivo debería figurar debajo de **"Changes to be committed"**.  
+
+### Realizar el primer commit  
+Finalmente, ejecuta el siguiente comando:  
+
+```sh
+git commit -m "creacion readme"
+```
+
+Con este comando, realizas el primer envío o versión del proyecto. Es decir, `git commit` guarda los cambios desde el **staging area** en el **repositorio local**. Al hacer esto, Git crea un "punto de guardado" en el historial del proyecto.  
+
+El texto entre comillas (`"creacion readme"`) es un mensaje descriptivo que indica el propósito del cambio realizado, facilitando su identificación en el historial de versiones.  
+
+Este comando toma todos los cambios que están en el **staging area** y los almacena en el **repositorio local**, marcando un punto clave en el avance del proyecto. 🚀  
+
+## 👉 Si necesitas ayuda, te dejamos un video para guiarte:  
+🎥 [Introducción a Git | Primer commit | Egg](https://www.youtube.com/watch?v=7RnHisHEd4k)  
+
+### ⚠️ ¡¡¡IMPORTANTE!!! Ten en cuenta lo siguiente:
+
+- El mensaje del commit debe ser **breve y descriptivo**, indicando claramente el cambio realizado.  
+- Para verificar que el archivo se ha movido correctamente del staging area al repositorio local, ejecuta:  
+  ```sh
+  git status
+  ```
+  La consola debería mostrar el mensaje:  
+  ```
+  Nothing to commit, working tree clean
+  ```
+- Antes de realizar un nuevo commit, asegúrate de que hayas **creado, modificado o eliminado archivos** en tu proyecto.  
+- Recuerda los pasos clave:  
+  1. Mueve los archivos al área de preparación con:  
+     ```sh
+     git add <archivo>
+     ```
+  2. Realiza el commit para guardarlos en el repositorio local con:  
+     ```sh
+     git commit -m "Mensaje descriptivo del cambio"
+     ```
