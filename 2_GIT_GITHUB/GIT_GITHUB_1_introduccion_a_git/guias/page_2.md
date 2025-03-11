@@ -17,7 +17,10 @@ Git es un sistema de control de versiones que te permite llevar un seguimiento d
 Si lo necesitas, te proporcionamos un video que te guiará en la instalación de Git, con el cual también podrás profundizar en algunas configuraciones básicas que puedes definir durante el proceso. Si prefieres, puedes seguir el paso a paso indicado en la guía de instalación.  
 
 ### 🎥 Instalación de Git | Git | Egg  
-[![Instalación de Git | Git | Egg](https://img.youtube.com/vi/Rpd978YJdM4/0.jpg)](https://www.youtube.com/watch?v=Rpd978YJdM4)  
+<a href="https://www.youtube.com/watch?v=Rpd978YJdM4" target="_blank">
+  <img src="https://img.youtube.com/vi/Rpd978YJdM4/0.jpg" width="500">
+</a>
+
 
 ## 🛠 Pasos para instalar Git en tu ordenador  
 
