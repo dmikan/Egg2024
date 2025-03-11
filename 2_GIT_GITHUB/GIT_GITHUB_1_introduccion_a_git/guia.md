@@ -98,8 +98,9 @@ git config --global user.email "nickname@mail.com"
 
 Para validar que la información se guardó correctamente, ejecuta primero **git config user.name** y luego **git config user.email**. Deberías ver los valores que configuraste previamente.
 
-👉 Si necesitas ayuda, te dejamos un video para guiarte : 
-[![🎥Introducción a Git | Configurar Git | Egg](https://www.youtube.com/watch?v=6ZRr8bv0NEA)
+👉 Si necesitas ayuda, te dejamos un video para guiarte: 
+[![🎥 Introducción a Git | Configurar Git | Egg](https://img.youtube.com/vi/6ZRr8bv0NEA/0.jpg)](https://www.youtube.com/watch?v=6ZRr8bv0NEA)
+
 
 Ahora que has realizado la configuración inicial, estás listo para comenzar a gestionar tus proyectos en Git. ¡Adelante! 🚀  
 
