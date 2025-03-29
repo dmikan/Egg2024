@@ -132,7 +132,7 @@ De acuerdo a la naturaleza de los datos, procede a declarar una variable utiliza
 
 ¿Te encontraste con algún desafío al abordar alguna de las actividades propuestas? Aquí te presentamos algunas soluciones que pueden servirte como referencia o guía para resolverlas.  
 
-👉 **[Soluciones](#)**  
+👉 **[Soluciones](https://github.com/dmikan/Egg2024/blob/main/3_INTRO_A_JAVA/INTRO_A_JAVA_1_primeros_pasos_con_java/soluciones.pdf)**  
 
 ✅ **Checklist**  
 Asegúrate de:  
