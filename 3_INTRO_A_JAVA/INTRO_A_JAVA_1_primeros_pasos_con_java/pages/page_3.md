@@ -55,7 +55,10 @@ A través de la creación de variables de distintos tipos, practicarás la asign
 🎥 **Material Audiovisual**  
 Te invitamos a ver el siguiente video, el cual complementará tu teoría y sentará las bases para llevar a cabo tus próximas actividades.  
 
----
+<a href="https://www.youtube.com/watch?v=vWMQdzA85lI" target="_blank">
+  <img src="https://img.youtube.com/vi/vWMQdzA85lI/maxresdefault.jpg" width="500">
+</a>
+
 
 ### A partir del anterior video proporcionado, resuelve 👇  
 
