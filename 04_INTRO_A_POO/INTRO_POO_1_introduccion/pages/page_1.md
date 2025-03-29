@@ -22,7 +22,7 @@ En esta primera sección, te sumergirás en el concepto de POO, explorando sus p
 
 Te brindamos acceso al material de lectura necesario para sentar las bases de las próximas actividades. Aquí te dejamos el acceso para que puedas revisarlo:
 
-👉 **[Teoría Introducción a Programación Orientada a Objetos](https://github.com/dmikan/Egg2024/blob/main/4_INTRO_A_POO/INTRO_POO_1_introduccion/teoria_introduccion_a_poo.pdf)**
+👉 **[Teoría Introducción a Programación Orientada a Objetos](https://github.com/dmikan/Egg2024/blob/main/04_INTRO_A_POO/INTRO_POO_1_introduccion/teoria_introduccion_a_poo.pdf)**
 
 ---
 
