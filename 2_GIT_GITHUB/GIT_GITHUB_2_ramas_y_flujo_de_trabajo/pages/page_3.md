@@ -26,10 +26,6 @@ Repite la acción con cada rama. Ten en cuenta que puedes moverte directamente e
  git checkout nombreDeLaRama
 ```
 
-Por ejemplo:
-
-![Ejemplo de git log](image4)
-
 Los commits de cada rama están en espera de ser subidos al repositorio remoto y supervisados, para luego poder ser parte del proyecto de trabajo.
 
 A medida que te muevas entre cada rama, notarás que el archivo solo mostrará el contenido específico para esa rama. Esto significa que siempre verás el título, la sección "About Me" y "Contact Me", junto con la sección correspondiente a la rama en la que te encuentres, reflejando las ediciones realizadas en esa área.
