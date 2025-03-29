@@ -11,6 +11,7 @@ Te invitamos a ver el siguiente video, el cual complementará tu teoría y senta
 <a href="https://www.youtube.com/watch?v=KFRtT8ibhLo" target="_blank">
   <img src="https://img.youtube.com/vi/KFRtT8ibhLo/0.jpg" width="500">
 </a>
+
 ---
 
 ## ✏️ Actividad: Usando la Clase Scanner  
