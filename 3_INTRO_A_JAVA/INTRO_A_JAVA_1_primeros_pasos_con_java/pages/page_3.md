@@ -24,9 +24,8 @@ El objetivo del siguiente ejercicio es familiarizarte con la impresión en la co
 Te invitamos a ver el siguiente video, el cual complementará tu teoría y sentará las bases para llevar a cabo tus próximas actividades.  
 
 <a href="https://www.youtube.com/watch?v=5lgFT9zzZUg" target="_blank">
-  <img src="https://img.youtube.com/vi/Rpd978YJdM4/0.jpg" width="500">
+  <img src="https://img.youtube.com/vi/5lgFT9zzZUg/maxresdefault.jpg" width="500">
 </a>
----
 
 ### A partir del anterior video proporcionado:  
 
