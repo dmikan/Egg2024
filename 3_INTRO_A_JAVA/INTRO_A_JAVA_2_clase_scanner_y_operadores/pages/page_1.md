@@ -25,7 +25,7 @@ Al finalizar, podrás alcanzar los siguientes objetivos:
 
 Aquí encontrarás el material descargable correspondiente que te dará las bases para tus próximos pasos.  
 
-👉 **[Teoría Clase Scanner & Operadores en Java](#)**  
+👉 **[Teoría Clase Scanner & Operadores en Java](https://github.com/dmikan/Egg2024/blob/main/3_INTRO_A_JAVA/INTRO_A_JAVA_2_clase_scanner_y_operadores/teoria_clase_scanner_y_operadores_en_java.pdf)**  
 
 ---
 
