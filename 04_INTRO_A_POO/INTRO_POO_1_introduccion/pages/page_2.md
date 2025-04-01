@@ -55,6 +55,12 @@ El objetivo principal de un constructor es asignar valores iniciales a los atrib
 Te invitamos a ver el siguiente video, el cual complementará tu teoría y sentará las bases para llevar a cabo tus próximas actividades.
 
 ---
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=-x71oKT5bjY" target="_blank">
+    <img src="https://img.youtube.com/vi/-x71oKT5bjY/0.jpg" width="500">
+  </a>
+</div>
+---
 
 ### ✏️ Actividad: Implementación de constructores
 
