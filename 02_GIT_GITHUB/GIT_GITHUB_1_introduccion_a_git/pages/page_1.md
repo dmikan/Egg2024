@@ -9,7 +9,7 @@ Prepárate para adquirir nuevos conocimientos y potenciar tus habilidades como d
 ¡Comencemos! 🚀  
 
 ## 📖 Material Descargable  
-Aquí encontrarás el material descargable correspondiente que te dará las bases para tus próximos pasos **[teoria_introduccion_a_git.pdf](https://github.com/dmikan/Egg2024/blob/main/2_GIT_GITHUB/GIT_GITHUB_1_introduccion_a_git/teoria_introduccion_a_git.pdf)**.  
+Aquí encontrarás el material descargable correspondiente que te dará las bases para tus próximos pasos **[teoria_introduccion_a_git.pdf](https://github.com/dmikan/Egg2024/blob/main/02_GIT_GITHUB/GIT_GITHUB_1_introduccion_a_git/teoria_introduccion_a_git.pdf)**.  
 
 ## ✅ Checklist  
 
