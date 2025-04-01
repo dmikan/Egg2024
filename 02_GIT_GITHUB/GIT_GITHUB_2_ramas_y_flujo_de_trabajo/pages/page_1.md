@@ -14,4 +14,4 @@ Las ramas son fundamentales dentro de Git Workflow, ya que permiten crear "camin
 
 Si no has leído el material proporcionado anteriormente, necesario para sentar las bases de las próximas actividades, aquí te dejamos nuevamente acceso al mismo para que puedas revisarlo.  
 
-👉 **[Teoría Ramas de Trabajo](https://github.com/dmikan/Egg2024/blob/main/2_GIT_GITHUB/GIT_GITHUB_2_ramas_y_flujo_de_trabajo/branches.pdf)**
+👉 **[Teoría Ramas de Trabajo](https://github.com/dmikan/Egg2024/blob/main/02_GIT_GITHUB/GIT_GITHUB_2_ramas_y_flujo_de_trabajo/branches.pdf)**

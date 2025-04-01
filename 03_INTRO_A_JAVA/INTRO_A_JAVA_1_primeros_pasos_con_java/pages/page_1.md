@@ -16,7 +16,7 @@ Java es un lenguaje potente y versátil que se utiliza en una amplia variedad de
 ## 📖 Material Descargable  
 Aquí encontrarás el material descargable correspondiente que te dará las bases para tus próximos pasos.  
 
-👉 **[Teoría Introducción a Java](https://github.com/dmikan/Egg2024/blob/main/3_INTRO_A_JAVA/INTRO_A_JAVA_1_primeros_pasos_con_java/teoria_introduccion_a_java.pdf)**  
+👉 **[Teoría Introducción a Java](https://github.com/dmikan/Egg2024/blob/main/03_INTRO_A_JAVA/INTRO_A_JAVA_1_primeros_pasos_con_java/teoria_introduccion_a_java.pdf)**  
 
 ---
 
