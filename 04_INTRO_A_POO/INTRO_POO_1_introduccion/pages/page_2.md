@@ -7,9 +7,12 @@ Te invitamos a ver el siguiente video, el cual complementará tu teoría y senta
 
 ---
 
-<a href="https://www.youtube.com/watch?v=GyhDsUYhSfU" target="_blank">
-  <img src="https://img.youtube.com/vi/GyhDsUYhSfU/0.jpg" width="500">
-</a>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=GyhDsUYhSfU" target="_blank">
+    <img src="https://img.youtube.com/vi/GyhDsUYhSfU/0.jpg" width="500">
+  </a>
+</div>
+
 
 ---
 
